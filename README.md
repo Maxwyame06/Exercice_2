@@ -5,3 +5,4 @@
 ### J'aime pas la neige
 - Elle est centré 
 - Le syle est dans l'index.html
+- Couleur background ajouté
